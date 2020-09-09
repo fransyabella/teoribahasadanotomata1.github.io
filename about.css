@@ -1,0 +1,18 @@
+/*
+ * Content
+ */
+.author-info .desc h1 {
+  font-family: 'Merienda One', cursive;
+}
+
+.author-info .desc h2 {
+  font-family: 'Great Vibes', cursive;
+}
+
+.author-info .desc h5 {
+  font-family: 'Oleo Script', cursive;
+}
+
+.author-info .desc .contacts li {
+  padding-bottom: 0.5rem;
+}

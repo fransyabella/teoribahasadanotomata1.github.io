@@ -1,0 +1,67 @@
+/*
+ * Content
+ */
+.quickIntro .wrapQuickIntro h1 {
+  font-family: 'Pattaya', sans-serif;
+}
+
+.quickIntro .wrapQuickIntro h3 {
+  color: #a1a1a141;
+}
+
+.firstQuestion .container .row .col p {
+  color: #a1a1a1;
+}
+
+.firstQuestion .container .row .col a {
+  color: #ba9329;
+}
+
+.secondQuestion p {
+  color: #a1a1a1;
+}
+
+.thirdQuestion img {
+  width: 100%;
+}
+
+.secondQuestion .row img {
+  width: 50px;
+  height: 50px;
+  display: block;
+}
+
+.thirdQuestion h2 {
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.thirdQuestion p {
+  font-family: 'Caudex', serif;
+}
+
+.thirdQuestion .row em {
+  color: #ba9329;
+}
+
+/*
+ * Button to Top
+ */
+#BtnTop {
+  position: fixed;
+  float: right;
+  bottom: 10px;
+  right: 5%;
+  background-color: #e8ebe9;
+  border-radius: 50px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+#BtnTop > a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2px 10px 2px 10px;
+}
+#BtnTop:hover {
+  background-color: #dab140;
+  border: 1px solid #9b7631;
+}
